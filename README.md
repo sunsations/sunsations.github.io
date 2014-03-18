@@ -5,7 +5,14 @@ The best way to test out is to run jekyll with the watch option
 
     jekyll server -w
 
+## Rake task
+* Add new post
+    
+    rake new_post
+
+
 ## TODO
-* Add personal image
-* Google Analytics
+* Better styling (red instead of black)
+
+
 
