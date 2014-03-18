@@ -1,5 +1,5 @@
-title:            Site Title
-description:      Describe your website here.
+title:            Thomas Arni
+description:      My personal blog
 logo:             site-logo.png
 disqus_shortname: 
 search:           true
@@ -8,14 +8,14 @@ url:              http://localhost:4000
 
 # Owner/author information
 owner:
-  name:           Your Name
+  name:           Thomas Arni
   avatar:         bio-photo.jpg
-  email:          you@email.com
+  email:          thomas.arni@gmail.com
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        
+  twitter:        thomasarni 
   facebook:       
-  github:         
-  stackexchange:  
+  github:         sunsations 
+  stackexchange:  http://stackoverflow.com/users/934675/sunsations 
   linkedin:       
   instagram:      
   flickr:         
@@ -36,11 +36,6 @@ links:
     url: /about/
   - title: Articles
     url: /articles/
-  - title: Theme Setup
-    url: /theme-setup/
-  - title: Made Mistakes
-    url: http://mademistakes.com
-    external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/New_York
