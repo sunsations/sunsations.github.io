@@ -12,4 +12,5 @@ image:
 
 Welcome to my blog!
 
-This is my personal blog about web development in general and Ruby, Unix and JavaScript in particular. The blog post are first a personal reference and a way to get better at writing. I hope you find it useful.
+This is my personal blog about web development in general and Ruby, Unix and JavaScript in particular. 
+The blog posts are mainly a personal reference and a way to get better at writing. I hope you find it useful.
