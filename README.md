@@ -13,6 +13,11 @@ The best way to test out is to run jekyll with the watch option
 
 ## TODO
 * Better styling (red instead of black)
+* Post about tmux
+* Aliases series
+* vim
+* homesick
+* learning ruby -> ruby koans
 
 
 
